@@ -10,15 +10,15 @@
 *Clean interface with intuitive input fields.*
 
 ### 2. Password Analysis  
-![Password Analysis](assets/screenshots/screen%20shot%202.png)  
+![Password Analysis](assets/screen%20shot%202.png)  
 *Breaks down password strength by length, character diversity, and repetition.*
 
 ### 3. Breach Detection Result  
-![Breach Detection](assets/screenshots/screen%20shot%203.png)  
+![Breach Detection](assets/screen%20shot%203.png)  
 *Checks if the password appears in known data breaches using online APIs.*
 
 ### 4. PDF Export Confirmation  
-![PDF Export](assets/screenshots/screen%20shot%204.png)  
+![PDF Export](assets/screen%20shot%204.png)  
 *Generates a downloadable PDF report summarizing the analysis.*
 
 > ✅ Make sure these image files are located in `assets/screenshots/` and named exactly as shown above. GitHub is case-sensitive and doesn’t like spaces in filenames.
